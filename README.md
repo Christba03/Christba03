@@ -5,17 +5,18 @@ Hi, I'm Christian Barragan!
 	</a>
 </h1>
 
+***Talking about Personal Stuff...***
 
-***Talking about Personal Stuffs...***
-
-✔ I’m currently studing software enginering <br>
+✔ I’m currently studying Software Engineering <br>
 ✔ I’m currently learning **Angular** & **Python**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Software architecture**<br>
-✔ Ask me about anything, I am happy to help; if i cant help, we can learn together<br>
+✔ I’m looking to collaborate on **Open-Source projects**<br>
+✔ I’m seeking help to learn **Software Architecture**<br>
+✔ Ask me anything; I'm happy to help! If I can’t, we can learn together<br>
+
 ![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
+
 ## 🛠️ My Skills
--------------------
+
 ### Programming languages:
 &emsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -83,8 +84,6 @@ Hi, I'm Christian Barragan!
   </a>
 </p>
 
-
-
 ## 📈 My GitHub Stats and Activity
 &emsp;
 
@@ -101,7 +100,3 @@ Hi, I'm Christian Barragan!
 <a href="https://github.com/Christba03/El-Fortin">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Christba03&repo=El-Fortin&theme=tokyonight" alt="El-Fortin Repository" />
 </a>
-
-
-
-
