@@ -59,6 +59,7 @@ Hi, I'm Christian Barragan!
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 🤝🏻 &nbsp;Connect with Me
+&emsp;
 
   <a href="https://www.facebook.com/christian.barragan.50/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge" />
