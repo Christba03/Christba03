@@ -60,7 +60,6 @@ Hi, I'm Christian Barragan!
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
   <a href="https://www.facebook.com/christian.barragan.50/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge" />
   </a>
@@ -79,7 +78,6 @@ Hi, I'm Christian Barragan!
   <a href="https://www.twitch.tv/" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch Badge" />
   </a>
-</p>
 
 ## 📈 My GitHub Stats and Activity
 &emsp;
