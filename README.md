@@ -61,22 +61,19 @@ Hi, I'm Christian Barragan!
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://adityakanoi2001.wordpress.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100008728234917" target="_blank">
+  <a href="https://www.facebook.com/christian.barragan.50/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge" />
   </a>
-  <a href="mailto:adityakanoiofficial@gmail.com" target="_blank">
+  <a href="mailto:christba455@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email Badge" />
   </a>
-  <a href="https://www.linkedin.com/in/ask2001/" target="_blank">
+  <a href="https://www.linkedin.com/in/christian-barrag%C3%A1n-3b3218185/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://www.instagram.com/aditya_kanoi123/" target="_blank">
+  <a href="https://www.instagram.com/christbap/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge" />
   </a>
-  <a href="https://www.tiktok.com/" target="_blank">
+  <a href="https://www.tiktok.com/@christba" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok Badge" />
   </a>
   <a href="https://www.twitch.tv/" target="_blank">
