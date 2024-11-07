@@ -90,7 +90,7 @@ Hi, I'm Christian Barragan!
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Christba03&show_icons=true&theme=dark&locale=en&layout=compact" alt="Christba03" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Christba03&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=stars" alt="Christba03's GitHub stats" /></p>
 
-## My Projects ✨:
+##  ✨My Projects:
 &emsp;
 
 <a href="https://github.com/Christba03/PracticasUni">
