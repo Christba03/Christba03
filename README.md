@@ -75,15 +75,7 @@ Hi, I'm Christian Barragan!
 
 ## 📈 My GitHub Stats and Activity
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Christba03&show_icons=true&theme=dark&locale=en&layout=compact" alt="Christba03" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Christba03&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=stars" alt="Christba03's GitHub stats" /></p>
-
-##  ✨My Projects:
-
-<a href="https://github.com/Christba03/PracticasUni">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Christba03&repo=PracticasUni&theme=tokyonight" alt="PracticasUni Repository" />
-</a>
-
-<a href="https://github.com/Christba03/El-Fortin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Christba03&repo=El-Fortin&theme=tokyonight" alt="El-Fortin Repository" />
-</a>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Christba03&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Christba03&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=stars" alt="GitHub Stats" />
+</p>
