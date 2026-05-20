@@ -74,8 +74,12 @@ Hi, I'm Christian Barragan!
   </a>
 
 ## 📈 My GitHub Stats and Activity
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Christba03&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Christba03&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=stars" alt="GitHub Stats" />
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Christba03&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    alt="GitHub Stats" />
+
+  <img height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christba03&layout=compact&theme=tokyonight&cache_seconds=1800"
+    alt="Top Languages" />
 </p>
