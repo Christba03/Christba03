@@ -74,5 +74,6 @@ Hi, I'm Christian Barragan!
   </a>
 
 ## 📈 My GitHub Stats and Activity
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=christba03)](https://github.com/stats-organization/github-stats-extended)
+[[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=christba03)](https://github.com/stats-organization/github-stats-extended)
 
+](https://github-stats-extended.vercel.app/api/top-langs?username=Christba03&langs_count=5&theme=flag-india)
