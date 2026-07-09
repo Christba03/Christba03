@@ -76,9 +76,9 @@ Hi, I'm Christian Barragan!
 ## 📈 My GitHub Stats and Activity
 <p align="center">
   <img height="180em"
-    src="https://TU-PROYECTO.vercel.app/api?username=Christba03&show_icons=true&theme=tokyonight&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api?username=Christba03&show_icons=true&theme=tokyonight&cache_seconds=1800"
     alt="GitHub Stats" />
   <img height="180em"
-    src="https://TU-PROYECTO.vercel.app/api/top-langs/?username=Christba03&layout=compact&theme=tokyonight&cache_seconds=1800"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christba03&layout=compact&theme=tokyonight&cache_seconds=1800"
     alt="Top Languages" />
 </p>
