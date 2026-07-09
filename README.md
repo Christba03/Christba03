@@ -75,3 +75,4 @@ Hi, I'm Christian Barragan!
 
 ## 📈 My GitHub Stats and Activity
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Christba03&langs_count=5&theme=flag-india)](https://github-stats-extended.vercel.app/api/top-langs?username=Christba03&langs_count=5&theme=flag-india)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Christba03&rank_icon=github&show_icons=true&include_all_commits=true&theme=flag-india)](https://github-stats-extended.vercel.app/api?username=Christba03&rank_icon=github&show_icons=true&include_all_commits=true&theme=flag-india)
